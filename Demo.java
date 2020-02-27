@@ -1,4 +1,5 @@
 //Demo.java
+//Program to count capital letters in a string
 import java.util.*;
 
 class Line

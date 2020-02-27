@@ -1,4 +1,6 @@
 //Demo3.java
+//Write a java program which accept string from user and return difference between frequency of small characters and frequency of capital characters.
+
 import java.util.*;
 
 class Line2

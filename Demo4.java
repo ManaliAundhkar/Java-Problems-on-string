@@ -1,4 +1,6 @@
 //Demo4.java
+//Write a java program which accept string from user and check whether it contains vowels in it or not.
+
 import java.util.*;
 
 class Line3

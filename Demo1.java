@@ -1,4 +1,5 @@
 //Demo1.java
+//Write a java program which accept string from user and count number of small characters.
 import java.util.*;
 
 class Line

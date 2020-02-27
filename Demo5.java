@@ -1,4 +1,6 @@
 //Demo5.java
+//Write a java program which accept string from user and display it in reverse order.
+
 import java.util.*;
 import java.lang.*;
 
